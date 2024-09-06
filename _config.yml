@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-HK"
-title                    : "Edwin's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wong, Edwin Kwun Hang"
 description              : &description "Hello everyone. My name is Edwin. I am an AI research enthusiast of emerging memristive computing from Hong Kong."
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Wong, Edwin Kwun Hang"
   pronouns         : # example: "she/her"  
-  bio              : "Hello everyone. My name is Edwin. I am an AI research enthusiast of emerging memristive computing from Hong Kong."
+  bio              : "MPhil Student Researcher @HKU, Interest: neuromorphic computing, memristive device, security"
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
