@@ -11,10 +11,10 @@ locale                   : "zh-HK"
 title                    : "Edwin's Homepage"
 title_separator          : "-"
 name                     : &name "Wong, Edwin Kwun Hang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Hello everyone. My name is Edwin. I am an AI researcher of emerging computing from Hong Kong."
+url                      : https://kwunhangwong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kwunhangwong/kwunhangwong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wong, Edwin Kwun Hang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "edwinwong@ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
