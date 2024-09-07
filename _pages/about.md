@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my site!! I'm Edwin from 🇭🇰🇭🇰! I am a final year MPhil student from HKU [IMSC Lab](https://zhongruiwang.github.io/), [CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as Research Assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My supervisor are Prof. Xiaojuan Qi and Prof. Zhongrui Wang.
+Hi there! Welcome to my site!! I'm Edwin, born in Hong Kong 🇭🇰🇭🇰! 
+
+I am a final year MPhil student from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work are co-supervised by Prof. Zhongrui Wang and Prof. Xiaojuan Qi.
 
 A data-driven personal website
 ======
