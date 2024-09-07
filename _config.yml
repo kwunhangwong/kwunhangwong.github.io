@@ -21,7 +21,7 @@ repository               : "kwunhangwong/kwunhangwong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.pdf"
+  avatar           : "profile_picv3.jpg"
   name             : "Wong, Edwin Kwun Hang"
   pronouns         : # example: "she/her"  
   bio              : "MPhil Student Researcher @HKU, Interest: neuromorphic computing, memristive device, security"
