@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my site!! I'm Edwin, born in Hong Kong 🇭🇰🇭🇰 (@2000)! 
-
-I am a final year MPhil student from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work are co-supervised by Prof. Zhongrui Wang and Prof. Xiaojuan Qi.
+Hi there, welcome to my site. I'm Edwin, who was born in Hong Kong at year 2000. I am a final year MPhil student from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work are co-supervised by Prof. Zhongrui Wang and Prof. Xiaojuan Qi.
 
 A data-driven personal website
 ======
