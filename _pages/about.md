@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, welcome to my site! I'm Edwin, who was born at the millennial year 2000 (the Chinese Dragon year) in Hong Kong. I am a final year MPhil student from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work are co-supervised by Prof. Zhongrui Wang and Prof. Xiaojuan Qi.
+Hi there, welcome to my site! I'm Edwin, who was born at the millennial year 2000 (the lunar year of Dragon🐉) in Hong Kong. I am a final year MPhil student from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work are co-supervised by Prof. Zhongrui Wang and Prof. Xiaojuan Qi. My dream is to become a leading AI scientist that drives the third thousand year and revolutionizes human history.
 
 A data-driven personal website
 ======
