@@ -11,9 +11,9 @@ Hi there, welcome to my site! I'm Edwin, who was born at the millennial year AD2
 
 My dream is to become a leading AI scientist that drives the 3rd thousand year of civilization after Christ was born and revolutionizes human history. I am actively looking for overseas PhD opportunies for better environment and resources to support my research and dream currently!
 
-News✨✨
+✨✨News✨✨
 ======
-[2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to IEEE ICCAD 2024🎉!
+[2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to IEEE ICCAD 2024🎉, which is also my first 1st author paper🎉!
 
 Getting started
 ======
