@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there, welcome to my site! I'm Edwin, who was born at the millennial year AD2000 (the lunar year of Dragon🐉) in Hong Kong. I am a final year MPhil student of Electrical and Electronic Engineering from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://xjqi.github.io/cvmi.html) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work on neuromorphic computing are co-supervised by Prof. Zhongrui Wang (Hardware) and Prof. Xiaojuan Qi (Software). 
 
-My dream is to become a leading AI scientist that drives the 3rd thousand year of civilization after Christ was born and revolutionizes human history. I am actively looking for overseas PhD opportunies for better environment and resources to support my research and dream currently!
+My dream is to become a leading AI scientist that drives the 3rd thousand year of civilization and revolutionizes human history. I am actively looking for overseas PhD opportunies for better environment and resources to support my research and dream currently!
 
 ✨✨News✨✨
 ------
@@ -24,5 +24,4 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 📚📚Education📚📚
 ------
 2023.09 - (now), MPhil Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
-
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
