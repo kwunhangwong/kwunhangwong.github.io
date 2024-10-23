@@ -24,4 +24,5 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 📚📚Education📚📚
 ------
 2023.09 - (now), M.Phil Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
+
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
