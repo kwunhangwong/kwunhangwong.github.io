@@ -2,13 +2,8 @@
 title: "Older and Wise: The Marriage of Device Aging and Intellectual Property Protection of DNNs"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: 'Previous approaches to securing DNNs typically require expensive circuit redesign, resulting in additional overheads such as increased area, energy consumption, and latency. To address these issues, we propose a novel hardware-software co-design for DNN protection that leverages the inherent aging characteristics of circuits to provide effect protection.'
+date: 2024-06-21
+venue: "DAC'24"
+paperurl: 'https://arxiv.org/abs/2406.14863'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
