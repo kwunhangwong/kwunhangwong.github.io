@@ -13,7 +13,7 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 ✨✨News✨✨
 ------
-[2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to IEEE ICCAD 2024🎉, which is also my first 1st author paper🎉!
+[2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to ACM/IEEE ICCAD 2024🎉, which is also my first 1st author paper🎉!
 
 [2024-02-26] One paper, ‘Older and Wise: The Marriage of Device Aging and Intellectual Property Protection of DNNs’, has been accepted to ACM/IEEE DAC 2024🎉!
 
@@ -23,6 +23,9 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 📚📚Education📚📚
 ------
-2023.09 - (now), M.Phil Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
+2023.09 - (now), M.Phil. Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
+
+
+<a href='https://clustrmaps.com/site/1c1v6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=7c4343&w=300&t=tt&d=-aGqlKP_7pB12rHZixQQzmjU4fxfrKtINWyXwlIlFz4&co=ffffff&ct=540000'/></a>
