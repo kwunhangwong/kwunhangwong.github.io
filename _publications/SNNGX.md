@@ -6,7 +6,7 @@ excerpt: 'There is a considerable risk from malicious attempts to extract white-
 date: 2024-10-27
 venue: "ICCAD'24"
 paperurl: 'https://arxiv.org/abs/2407.15152'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 To be continued...

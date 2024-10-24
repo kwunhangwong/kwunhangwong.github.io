@@ -6,7 +6,7 @@ excerpt: 'Previous approaches to securing DNNs typically require expensive circu
 date: 2024-06-21
 venue: "DAC'24"
 paperurl: 'https://arxiv.org/abs/2406.14863'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 To be continued...
