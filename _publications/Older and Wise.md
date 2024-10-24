@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Older and Wise: The Marriage of Device Aging and Intellectual Property Protection of DNNs"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
