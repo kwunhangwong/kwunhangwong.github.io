@@ -13,7 +13,7 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 ✨✨News✨✨
 ------
-[2024-11-01] One paper, ‘Resistive memory-based zero-shot liquid state machine for multimodal event data learning’, has been accepted to Nature Computational Science 🎉! 
+[2024-11-26] One paper, ‘Resistive memory-based zero-shot liquid state machine for multimodal event data learning’, has been accepted to Nature Computational Science 🎉! 
 
 [2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to ACM/IEEE ICCAD 2024🎉, which is also my first 1st author paper🎉!
 
