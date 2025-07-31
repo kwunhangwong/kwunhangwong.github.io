@@ -13,7 +13,7 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 ✨✨News✨✨
 ------
-[2025-07-23] I started my PhD degree in Electrical Engineering at HKU!
+[2025-07-23] I started my Ph.D. degree in Electrical Engineering at HKU!
 
 [2025-06-30] One paper, ‘When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing’, has been accepted to IEEE ICCAD 2025 🎉! 
 
@@ -31,7 +31,7 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 📚📚Education📚📚
 ------
-2023.09 - (now), D.Phil. Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
+2023.09 - (now), Ph.D. Student, Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
