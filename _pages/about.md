@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, welcome to my site! I'm Edwin, who was born at the millennial year AD2000 (the lunar year of Dragon🐉) in Hong Kong. I am a final year MPhil student of Electrical and Electronic Engineering from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://cvmi.hku.hk) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work on neuromorphic computing are co-supervised by Prof. Zhongrui Wang (Hardware) and Prof. Xiaojuan Qi (Software). 
+Hi there, welcome to my site! I'm Edwin, who was born at the millennial year AD2000 (the lunar year of Dragon🐉) in Hong Kong. I am a second year PhD student of Electrical and Electronic Engineering from HKU [@IMSC Lab](https://zhongruiwang.github.io/), [@CVMI Lab](https://cvmi.hku.hk) and serve as a research assistant at AI Chip Centre for Emerging Smart Systems (ACCESS). My research work on neuromorphic computing is co-supervised by Prof. Zhongrui Wang (Hardware) and Prof. Xiaojuan Qi (Software). 
 
-My dream is to become a leading AI scientist that drives the 3rd thousand year of civilization and revolutionizes human history. I am actively looking for overseas PhD opportunies for better environment and resources to support my research and dream currently!
+My dream is to become a leading AI scientist that drives the 3rd thousand year of civilization and revolutionizes human history. I am actively looking for overseas research opportunities for collaboration currently!
 
 ✨✨News✨✨
 ------
-[2025-07-23] I started my Ph.D. degree in Electrical Engineering at HKU!
-
 [2025-06-30] One paper, ‘When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing’, has been accepted to IEEE ICCAD 2025 🎉! 
 
 [2025-02-26] One paper, ‘Re4PUF: A Reliable, Reconfigurable ReRAM-based PUF Resilient to DNN and Side Channel Attacks’, has been accepted to ACM/IEEE DAC 2025 🎉! 
@@ -27,7 +25,7 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 [2024-01-10] One paper, ‘In-memory and In-Sensor Reservoir Computing with Memristive Devices’, has been published in APL Machine Learning 🎉! Moreover, this work is selected as Journal Cover🎉!
 
-[2023-09-01] I started my MPhil degree at HKU after graduation for Bachelor of Electrical Engineering in my same mother school. 
+[2023-09-01] I started my PhD degree at HKU after graduation for Bachelor of Electrical Engineering in my same mother school. 
 
 📚📚Education📚📚
 ------
