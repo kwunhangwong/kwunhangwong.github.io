@@ -13,6 +13,12 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 ✨✨News✨✨
 ------
+[2025-07-23] I started my PhD degree in Electrical Engineering at HKU!
+
+[2025-06-30] One paper, ‘When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing’, has been accepted to IEEE ICCAD 2025 🎉! 
+
+[2025-02-26] One paper, ‘Re4PUF: A Reliable, Reconfigurable ReRAM-based PUF Resilient to DNN and Side Channel Attacks’, has been accepted to ACM/IEEE DAC 2025 🎉! 
+
 [2024-11-26] One paper, ‘Resistive memory-based zero-shot liquid state machine for multimodal event data learning’, has been accepted to Nature Computational Science 🎉! 
 
 [2024-06-29] One paper, ‘SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator’, has been accepted to ACM/IEEE ICCAD 2024🎉, which is also my first 1st author paper🎉!
@@ -21,11 +27,11 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 
 [2024-01-10] One paper, ‘In-memory and In-Sensor Reservoir Computing with Memristive Devices’, has been published in APL Machine Learning 🎉! Moreover, this work is selected as Journal Cover🎉!
 
-[2023-09-01] I started my MPhil degree at HKU after graduation for  Bachelor of Electrical Engineering in my same mother school. 
+[2023-09-01] I started my MPhil degree at HKU after graduation for Bachelor of Electrical Engineering in my same mother school. 
 
 📚📚Education📚📚
 ------
-2023.09 - (now), M.Phil. Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
+2023.09 - (now), D.Phil. Student in Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
