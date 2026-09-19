@@ -34,4 +34,4 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
 ------
-<a href='https://visitor-badge.laobi.icu' title='Visitor counter'><img src='https://visitor-badge.laobi.icu/badge?page_id=kwunhangwong.github.io' alt='Visitors'/></a>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=flZsKsNmU9n7bkelbU5j_cp4K1v8yQQ_iWit2Kp5svE&cl=ffffff&w=a"></script>
