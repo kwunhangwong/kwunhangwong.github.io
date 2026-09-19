@@ -32,6 +32,11 @@ My dream is to become a leading AI scientist that drives the 3rd thousand year o
 2023.09 - (now), Ph.D. Student, Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
 2018.09 - 2023.06, B.Eng. in Electrical Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong.
+## Professional Service
+
+- Peer Reviewer (Machine Learning): AAAI (2024), ICLR (2024), ICML (2024), npj Artificial Intelligence (2025)
+- Peer Reviewer (Hardware & EDA): ICCAD (2024, 2026), ICCD (2026)
+
 
 ------
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=flZsKsNmU9n7bkelbU5j_cp4K1v8yQQ_iWit2Kp5svE&cl=ffffff&w=a"></script>
